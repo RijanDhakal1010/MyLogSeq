@@ -1,0 +1,3 @@
+- #latex Xelatex
+	- `sudo apt install texlive-xetex`
+-

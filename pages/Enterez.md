@@ -1,0 +1,6 @@
+- [The ncbi manual for enterez](https://www.ncbi.nlm.nih.gov/books/NBK3837/)
+- [The ncbi bookshelf](https://www.ncbi.nlm.nih.gov/books/) might be a good resource to get information on biological material.
+- # General Enterez manual notes
+- This manual is separated by the various Enterez tools and databases.
+- [[Bioproject]]
+-

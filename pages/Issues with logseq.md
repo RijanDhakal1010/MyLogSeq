@@ -1,0 +1,5 @@
+- How to edit or delete a block?
+- ~~To escape a block use `exc`.~~ To escape a block use `enter`.
+- How to caption a table?
+- How to have backlinks inside of the same page? This seems to be solved by block embed.
+-

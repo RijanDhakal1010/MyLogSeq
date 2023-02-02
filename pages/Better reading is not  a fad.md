@@ -1,0 +1,1 @@
+- In the words of Pascal, reading too fast and too slow teach us nothing. As such we should aspire to read better not faster. Speed reading is a fad, good reading is a skill. (Page 10)

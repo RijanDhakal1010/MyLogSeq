@@ -1,0 +1,5 @@
+{:logseq-tabs {:version "v1.18.1", :repo "pengx17/logseq-plugin-tabs", :effect true, :theme false}
+ :logseq-bullet-threading {:version "v1.1.1", :repo "pengx17/logseq-plugin-bullet-threading", :effect false, :theme false}
+ :logseq-move-block {:version "v0.0.13", :repo "vipzhicheng/logseq-plugin-move-block", :effect true, :theme false}
+ :logseq-markdown-table {:version "v1.7.0", :repo "haydenull/logseq-plugin-markdown-table", :effect false, :theme false}
+ :logseq-graph-analysis {:version "0.8.0", :repo "trashhalo/logseq-graph-analysis", :effect false, :theme false}}

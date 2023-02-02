@@ -1,0 +1,4 @@
+- My master's thesis was trying to understand the potential evolutionary factors behind the co-relation between trait of heterospory and ploidy and/or chromosome numbers.
+- The research behind this co-relation going back to the numbers published by Klekowski in the 1960s. Klekowski's working having lead to hypothesis trying to understand the relationship between the reproductive life of a green plant and its chromosome numbers.
+- Seeing that these heterosporous lineages are evolving independently on on disparate locations on the phylogeny and they co-incide with a drop in chromosome numbers, I wanted to build an experiment design on basis of these suspicions that these heterosporous lineages probably share significant signatures of evolution.
+-

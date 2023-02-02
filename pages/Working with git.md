@@ -1,0 +1,8 @@
+- #git_commands How to see the log of git commits?
+	- Use `git log` to see the log of commits
+- #git_commands How to revert to an old commit?
+	- As of right now I was unable to find the specific stackoverflow post but this migh be the way to do it.`
+		- `git checkout <commit_hash> .`
+		- `git commit`
+		- The above method seems to be be working.
+-

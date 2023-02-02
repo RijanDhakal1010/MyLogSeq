@@ -1,0 +1,174 @@
+[{:block/name "((do not currently understand this.))",
+  :block/created-at 1667615950385,
+  :block/updated-at 1667615950385}
+ {:block/name "a",
+  :block/created-at 1667595241802,
+  :block/updated-at 1667595241802}
+ {:block/name "arizona",
+  :block/created-at 1667857372326,
+  :block/updated-at 1667857372326}
+ {:block/name "b",
+  :block/created-at 1667595241802,
+  :block/updated-at 1667595241802}
+ {:block/name "bookmark organization",
+  :block/created-at 1667847136618,
+  :block/updated-at 1667847273329}
+ {:block/name "bookmark organization ",
+  :block/created-at 1667847136077,
+  :block/updated-at 1667847136077}
+ {:block/name "c",
+  :block/created-at 1667595241802,
+  :block/updated-at 1667595241802}
+ {:block/name "canceled",
+  :block/created-at 1667595241802,
+  :block/updated-at 1667595241802}
+ {:block/name "cancelled",
+  :block/created-at 1667595241802,
+  :block/updated-at 1667595241802}
+ {:block/name "card",
+  :block/created-at 1667595241802,
+  :block/updated-at 1667595241802}
+ {:block/name "chapter one",
+  :block/created-at 1668230377936,
+  :block/updated-at 1668230377936}
+ {:block/name "clemson",
+  :block/created-at 1667857354541,
+  :block/updated-at 1667857354541}
+ {:block/name "comments",
+  :block/created-at 1667749846080,
+  :block/updated-at 1667749846080}
+ {:block/name "contents",
+  :block/created-at 1667595241802,
+  :block/updated-at 1667595241802}
+ {:block/name "cornell",
+  :block/created-at 1667857362609,
+  :block/updated-at 1667857362609}
+ {:block/name "doing",
+  :block/created-at 1667595241802,
+  :block/updated-at 1667595241802}
+ {:block/name "done",
+  :block/created-at 1667595241802,
+  :block/updated-at 1667595241802}
+ {:block/name "favorites",
+  :block/created-at 1667595241802,
+  :block/updated-at 1667595241802}
+ {:block/name "git_commands",
+  :block/created-at 1667668718193,
+  :block/updated-at 1667668718193}
+ {:block/name "graduate applications",
+  :block/created-at 1667857345646,
+  :block/updated-at 1667857372326}
+ {:block/name "in-progress",
+  :block/created-at 1667595241802,
+  :block/updated-at 1667595241802}
+ {:block/name "installing stuff",
+  :block/created-at 1667774169050,
+  :block/updated-at 1667774177610}
+ {:block/name "issues with logseq",
+  :block/created-at 1667750526662,
+  :block/updated-at 1668650550635}
+ {:block/name "just enough lua",
+  :block/created-at 1667749457677,
+  :block/updated-at 1667763109272}
+ {:block/name "later",
+  :block/created-at 1667595241802,
+  :block/updated-at 1667595241802}
+ {:block/name "latex",
+  :block/created-at 1667774194326,
+  :block/updated-at 1667774194326}
+ {:block/name "meeting_november_8",
+  :block/created-at 1667921692242,
+  :block/updated-at 1667937537556}
+ {:block/name "mike barker",
+  :block/created-at 1667917026098,
+  :block/updated-at 1667937150504}
+ {:block/name "neovim",
+  :block/created-at 1667594804324,
+  :block/updated-at 1667594804324}
+ {:block/name "new_ideas",
+  :block/created-at 1668231077845,
+  :block/updated-at 1668231077845}
+ {:block/name "nov 10th, 2022",
+  :block/created-at 1668089923242,
+  :block/updated-at 1668141303010}
+ {:block/name "nov 11th, 2022",
+  :block/created-at 1668230008968,
+  :block/updated-at 1668230060232}
+ {:block/name "nov 12th, 2022",
+  :block/created-at 1668232800261,
+  :block/updated-at 1668232800261}
+ {:block/name "nov 13th, 2022",
+  :block/created-at 1668319203845,
+  :block/updated-at 1668319203845}
+ {:block/name "nov 14th, 2022",
+  :block/created-at 1668405604741,
+  :block/updated-at 1668438649140}
+ {:block/name "nov 15th, 2022",
+  :block/created-at 1668492000498,
+  :block/updated-at 1668492000498}
+ {:block/name "nov 16th, 2022",
+  :block/created-at 1668578486054,
+  :block/updated-at 1668578486054}
+ {:block/name "nov 4th, 2022",
+  :block/created-at 1667594673342,
+  :block/updated-at 1667594693365}
+ {:block/name "nov 5th, 2022",
+  :block/created-at 1667624401938,
+  :block/updated-at 1667668695868}
+ {:block/name "nov 6th, 2022",
+  :block/created-at 1667710800312,
+  :block/updated-at 1667774169050}
+ {:block/name "nov 7th, 2022",
+  :block/created-at 1667846612926,
+  :block/updated-at 1667847136078}
+ {:block/name "nov 8th, 2022",
+  :block/created-at 1667887202865,
+  :block/updated-at 1667924273378}
+ {:block/name "now",
+  :block/created-at 1667595241802,
+  :block/updated-at 1667595241802}
+ {:block/name "phylogenetic comparative method in r",
+  :block/created-at 1668230060230,
+  :block/updated-at 1668310038094}
+ {:block/name "phylogenetic r packages",
+  :block/created-at 1668230774692,
+  :block/updated-at 1668232185757}
+ {:block/name "phylogenetics",
+  :block/created-at 1668290893726,
+  :block/updated-at 1668290893726}
+ {:block/name "potential advisors",
+  :block/created-at 1667917017911,
+  :block/updated-at 1667917026098}
+ {:block/name "presentation notes for dr. fay- wei li",
+  :block/created-at 1668438649138,
+  :block/updated-at 1668539423160}
+ {:block/name "proquest and uah",
+  :block/created-at 1667924273376,
+  :block/updated-at 1667924301574}
+ {:block/name "todo",
+  :block/created-at 1667595241802,
+  :block/updated-at 1667595241802}
+ {:block/name "try to setup lsp inside of neovim",
+  :block/created-at 1667594693364,
+  :block/updated-at 1667764658366}
+ {:block/name "ubuntu",
+  :block/created-at 1667774177609,
+  :block/updated-at 1667774217879}
+ {:block/name "visa information",
+  :block/created-at 1668141303009,
+  :block/updated-at 1668142295735}
+ {:block/name "wait",
+  :block/created-at 1667595241802,
+  :block/updated-at 1667595241802}
+ {:block/name "waiting",
+  :block/created-at 1667595241802,
+  :block/updated-at 1667595241802}
+ {:block/name "what is phylogenetic comparative analysis?",
+  :block/created-at 1668288924189,
+  :block/updated-at 1668288924189}
+ {:block/name "working with git",
+  :block/created-at 1667668695867,
+  :block/updated-at 1667669982952}
+ {:block/name "working with hugo",
+  :block/created-at 1668394433936, 
+  :block/updated-at 1668650435929}]

@@ -1,0 +1,15 @@
+- TODO Introduction
+- TODO Current Work
+- TODO How I am familiar with your work
+	- Micheal McKibben
+	- Your polyploidy paper
+- TODO My idea of your lab
+	- Polyploidy and speciation
+	- Programming (Seeing a lot of perl)
+	- Triangle of U vs taxonomy
+- TODO Lab dynamics
+  collapsed:: true
+	- Compute environment
+	- UArizona phd deadlines
+- TODO Learning Statistics
+-

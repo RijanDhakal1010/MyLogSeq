@@ -1,0 +1,20 @@
+-
+- I have a list of species (1500 items), I want to find
+- The goal is to be able to automate the retrieval of genomic data.
+- # Transcriptomes
+- Community questions and answers
+	- [How to find transcriptomes](https://www.biostars.org/p/126018/)
+- Tools that might have transcriptomic data:
+	- [Plaza](https://bioinformatics.psb.ugent.be/plaza/)
+	- [Phytozome](https://phytozome-next.jgi.doe.gov/)
+	- [TSA](https://www.ncbi.nlm.nih.gov/genbank/tsa/)
+	- [GEO](https://www.ncbi.nlm.nih.gov/geo/info/seq.html)
+	- [Biomart](https://www.ensembl.org/biomart/martview)
+- # working with examples
+- Trying to find:
+	- `Paronychia echinulata Chater`
+	- `Nothoscordum nudum Beauverd`
+	  id:: 63beeb6b-a8b2-4cb0-b366-479f1b376683
+	- `Tristagma berteri Phil`
+	- `Bupleurum komarovianum Lincz`
+-
