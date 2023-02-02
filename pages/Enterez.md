@@ -3,4 +3,15 @@
 - # General Enterez manual notes
 - This manual is separated by the various Enterez tools and databases.
 - [[Bioproject]]
--
+- # Entrez Manaul
+- This section of the notes follow the entrez Manual [readme.pdf](https://www.ncbi.nlm.nih.gov/books/NBK179288/). The manual is inside the  folder downloaded with `curl`. Seem the manaul might be on this [web-page](https://www.ncbi.nlm.nih.gov/books/NBK179288/) as well.
+- ## Introduction
+- ### Programmatic access
+- The manual says "Each program also has a `-help` command that prints detailed information about available arguments." So, turns out they respond to `-help` and not `--help`.
+- ### Navigation function
+- It says "Efetch downloads selected records or reports in a style designated by" but also says records and it is not clear if records mean genomic data or not.
+- ### Accessory programs
+- "Nquire retrieves data from remote servers with URLs constructed from command line arguments" for example "nquire -url http://www.wikidata.org/entity Q22679758" not quite sure how I can get the "Q22679758".
+- https://www.biostars.org/p/9511014/
+- https://www.biostars.org/p/9518170/
+- https://www.biostars.org/u/105286/
