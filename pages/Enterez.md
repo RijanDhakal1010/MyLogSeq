@@ -3,6 +3,7 @@
 - # General Enterez manual notes
 - This manual is separated by the various Enterez tools and databases.
 - [[Bioproject]]
+- [[Elink]]
 - # Entrez Manaul
 - This section of the notes follow the entrez Manual [readme.pdf](https://www.ncbi.nlm.nih.gov/books/NBK179288/). The manual is inside the  folder downloaded with `curl`. Seem the manaul might be on this [web-page](https://www.ncbi.nlm.nih.gov/books/NBK179288/) as well.
 - ## Introduction
@@ -30,8 +31,11 @@
 		  <ENTREZ_DIRECT>
 		    <Db>pubmed</Db>
 		    <Count>18173</Count>
+		    # there are the 18173 lines here for the ids
 		  <ENTREZ_DIRECT>
 		  ```
+	- `esearch -db pubmed -query "lycopene cyclase" | elink -related | elink -target protein`
+		-
 - # Example from the manual
 - The following example is built on in the manual (from section to section):
 	- `esearch -db pubmed -query "lycopene cyclase" | elink -related | elink -target protein | efilter -organism mouse -source refseq | efetch -format fasta`
