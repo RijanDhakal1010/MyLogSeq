@@ -12,6 +12,11 @@
 - It says "Efetch downloads selected records or reports in a style designated by" but also says records and it is not clear if records mean genomic data or not.
 - ### Accessory programs
 - "Nquire retrieves data from remote servers with URLs constructed from command line arguments" for example "nquire -url http://www.wikidata.org/entity Q22679758" not quite sure how I can get the "Q22679758".
-- https://www.biostars.org/p/9511014/
-- https://www.biostars.org/p/9518170/
-- https://www.biostars.org/u/105286/
+- ## Discovery by navigation
+-
+- # Example from the manual
+- The following example is built on in the manual (from section to section):
+	- `esearch -db pubmed -query "lycopene cyclase" | elink -related | elink -target protein | efilter -organism mouse -source refseq | efetch -format fasta`
+		- This works and generates fastas after a series of errors.
+		-
+-

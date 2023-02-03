@@ -1,0 +1,2 @@
+- If having audio issues use `sudo zypper install sof-firmware`
+-
