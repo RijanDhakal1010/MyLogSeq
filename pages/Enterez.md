@@ -13,7 +13,25 @@
 - ### Accessory programs
 - "Nquire retrieves data from remote servers with URLs constructed from command line arguments" for example "nquire -url http://www.wikidata.org/entity Q22679758" not quite sure how I can get the "Q22679758".
 - ## Discovery by navigation
--
+- MeSH terms is the algorithm used to gauge the similarity across PubMed articles.
+- ### Building a one-liner
+- This section of the manual makes this one liner `esearch -db pubmed -query "lycopene cyclase" | elink -related | elink -target protein | efilter -organism mouse -source refseq | efetch -format fasta` but it is not working smoothly.
+- Working through the build-up of the one-liner:
+	- `esearch -db pubmed -query "lycopene cyclase"`
+		- ```XML
+		  <ENTREZ_DIRECT>
+		    <Db>pubmed</Db>
+		    <Count>290</Count>
+		    <Query>lycopene cyclase</Query>
+		  </ENTREZ_DIRECT>
+		  ```
+	- `esearch -db pubmed -query "lycopene cyclase" | elink -related`
+		- ```XML
+		  <ENTREZ_DIRECT>
+		    <Db>pubmed</Db>
+		    <Count>18173</Count>
+		  <ENTREZ_DIRECT>
+		  ```
 - # Example from the manual
 - The following example is built on in the manual (from section to section):
 	- `esearch -db pubmed -query "lycopene cyclase" | elink -related | elink -target protein | efilter -organism mouse -source refseq | efetch -format fasta`
