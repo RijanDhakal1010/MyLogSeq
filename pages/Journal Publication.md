@@ -1,5 +1,4 @@
 - The list of species that have less than 10 chromosomes and actually have assemblies according to NCBI entrez
-  collapsed:: true
 	- Numbers for assemblies generated using this one-liner :`esearch -db assembly -query $line | xtract -pattern ENTREZ_DIRECT -element Count`
 	- The name of the bash script used is `entrez_automation` and the jupyter notebook used was `6.ipynb`
 	- Dysphania ambrosioides
