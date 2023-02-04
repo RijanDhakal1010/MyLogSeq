@@ -66,3 +66,4 @@
 	  Rhytidiadelphus loreus
 - It seems very possible that `NCBI entrez` might not be the way to go and the only way to do this might be with [`NCBI datasets`](https://www.ncbi.nlm.nih.gov/datasets/docs/v2/how-tos/)
 	- The issue with NCBI has been that for some reason it is completely ignoring the specific name of a whole species name (using `datasets summary genome taxon 'Aristolochia cretica'`). For example, when sending in `datasets summary genome taxon 'Aristolochia cretica'`, only `Aristolochia` is used.
+- `esearch -db assembly -query "Aristolochia cretica" | efetch -format uid` this is it.
