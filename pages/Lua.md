@@ -1,0 +1,11 @@
+- [Learn X in Y](https://learnxinyminutes.com/docs/lua/)
+- # Tables in Lua
+- Tables are the only compound data feature Lua has.
+	- They are similar to php arrays or js objects, they are hash-lookup dicts that can also be used as lists.
+	- In tables, dict literals have string keys by default.
+		- t = {key1='value', key2='false'}
+			- `print(t.key1)` -- this will print 'value'
+			- `t.newKey = {}`  -- Adds a new key/value pair.
+			- `t.key2 = nil`   -- Removes key2 from the table.
+- # Modules in Lua
+-
