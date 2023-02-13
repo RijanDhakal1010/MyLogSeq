@@ -1,2 +1,8 @@
 - If having audio issues use `sudo zypper install sof-firmware`
+- Tell system opensuse version with `cat /etc/os-release `
 -
+- # Install things
+- R
+	- sudo zypper in R-base
+	- `Tidyverse`
+		- install.packages('tidyverse')
