@@ -1,0 +1,10 @@
+- # Chapter 12
+- There are four types of extrinsic aids:
+	-
+- ## The role of Relevant experience
+-
+- ## Other books as Extrinsic aids to reading
+- ## How to use commentaries and abstracts
+- ## How to Use Reference books
+- ## How to use a dictionary
+- ## How to use an encyclopedia
