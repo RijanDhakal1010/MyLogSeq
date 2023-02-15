@@ -303,3 +303,45 @@
 	  Wollemia nobilis 
 	  Zea may 
 	  Zingiber officinale
+- # [[Feb 14th, 2023]]
+- I used `8.ipynb` to compare the old list of 110 species and the new list of species with 35 (34 + Arabidopsis thaliana). The only similarity was Arabidopsis which I dropped from the list with 35 names.
+  collapsed:: true
+	- The list of 34 species is as follows:
+	  collapsed:: true
+		- Dysphania ambrosioides
+		  Brassica napus
+		  Brassica rapa
+		  Erucastrum elatum
+		  Physaria acutifolia
+		  Erigeron philadelphicus
+		  Cucurbita pepo
+		  Rhynchospora breviuscula
+		  Rhynchospora pubera
+		  Rhynchospora tenuis
+		  Ricinus communis
+		  Juncus effusus
+		  Cicer echinospermum
+		  Cicer reticulatum
+		  Sesbania bispinosa
+		  Vicia faba
+		  Vicia sativa
+		  Theobroma cacao
+		  Corrigiola litoralis
+		  Erycina pusilla
+		  Macleaya cordata
+		  Turnera subulata
+		  Plantago major
+		  Plantago ovata
+		  Brachypodium distachyon
+		  Coix aquatica
+		  Coix lacryma-jobi
+		  Oropetium thomaeum
+		  Pennisetum glaucum
+		  Morinda officinalis
+		  Santalum album
+		  Tetracentron sinense
+		  Pleurozium schreberi
+		  Rhytidiadelphus loreus
+- `esearch -db assembly -query "Brassica rapa[ORGN]" | esummary | xtract -pattern DocumentSummary -sep "|" -element GbUid SpeciesName AssemblyStatus AssemblyType LastUpdateDate`
+- TODO What is the different between a scaffold level assembly and a chromosome level assembly
+-
