@@ -22,4 +22,5 @@
 - [Mike Sears](https://www.clemson.edu/science/academics/departments/biosci/about/profiles/sears3)-- Effect of climate on species at large.
   collapsed:: true
 	- Research: *My research focuses on the effects of environmental heterogeneity through both time and space on the physiology, behavior, and ecology of individuals. Specifically, I am interested in understanding whether and how animals (typically reptiles and amphibians) might respond to ongoing climatic change. Toward that end, I use an integrative approach that both develops and tests theory. Approaches in my lab use tools not only from physiological and behavioral ecology, but also from Geographic Information Systems (GIS) and remote sensing, evolutionary programming and individual based modeling, statistics, and (recently) ecological genomics*
--
+- [Krissa Skogen](https://www.clemson.edu/science/academics/departments/biosci/about/profiles/kskogen)
+- [Norman Wickett](https://www.clemson.edu/science/academics/departments/biosci/about/profiles/nwicket)
