@@ -1,0 +1,25 @@
+- # Faculty of interest to me
+- [J. Antonio Baeza Migueles](https://www.clemson.edu/science/academics/departments/biosci/about/profiles/jbaezam)
+  collapsed:: true
+	- What seems interesting: *We use marine invertebrates, including economically valuable species, as model systems. Our research is both hypothesis and curiosity driven and we use a combination of molecular phylogenies, natural history observations, basic modeling approaches, and manipulative experiments to accomplish our research goals.*
+	- Course of interest: Molecular Phylogenetics and The Comparative Method
+- [Richard Blob](https://www.clemson.edu/science/academics/departments/biosci/about/profiles/rblob)
+  collapsed:: true
+	- Lab uses: *phylogenetic comparative methods*
+- [Saara DeWalt](https://www.clemson.edu/science/academics/departments/biosci/about/profiles/saarad)
+  collapsed:: true
+	- Research Interests: *My lab uses ecological and molecular genetic techniques to address a number of questions in population, evolutionary, and community ecology: How is genetic variation distributed within and among plant populations?*
+- [Matthew Koski](https://www.clemson.edu/science/academics/departments/biosci/about/profiles/mkoski)
+  collapsed:: true
+	- Research interests: *Our lab studies the ecological and evolutionary processes that generate diversity in flowering plants. We're particularly interested in floral adaptation and plasticity in response to changing abiotic and biotic conditions across both space and time. To this end, we study adaptation across large-scale latitudinal and altitudinal gradients, and evaluate phenotypic responses to global change using retrospective herbarium-based approaches. We address questions primarily focused on floral pigmentation and plant mating systems, spanning levels of biological organization from populations to large clades.*
+- [Christopher Parkinson](https://www.clemson.edu/science/academics/departments/biosci/about/profiles/viper)
+- [Kara Powder](https://www.clemson.edu/science/academics/departments/biosci/about/profiles/kpowder)
+  collapsed:: true
+	- Research: *The goal of the Powder lab is to understand the genomic and developmental origins of diversity, with particular emphasis on evolution and disease in the craniofacial system. To do this, we utilize natural morphological variation in cichlid fishes. Cichlids of the East African Rift Lakes have undergone an extraordinary adaptive radiation, and a hallmark of this is their unparalleled range of craniofacial morphologies, which correlates with their feeding mechanism (e.g. algae scraping or suction feeding). We integrate quantitative trait loci (QTL) mapping, genomics, geometric morphometric shape analysis, and experimental embryology to assess how genetic variation contributes to changes in gene expression and function and ultimately results in phenotypic variation in craniofacial structures.*
+- [Sam Price](https://www.clemson.edu/science/academics/departments/biosci/about/profiles/sprice6) -- This one looks specially interesting
+  collapsed:: true
+	- Research: *My research aims to identify repeating themes and general principles governing the evolution of biodiversity. I am interested in how the uneven distribution of ecological, morphological and species diversity has evolved and how it may have been influenced by the biology of the organism and the environment in which it lives. I work at the macro-scale, investigating global patterns over long periods of time across large clades. To enable me to work at this scale I use data and methods from across evolutionary and organismal biology and paleobiology and apply data science techniques, tapping the reserves of scientific data in museum collections, published literature, as well as online databases. Central to my research is the generation and analysis of ecomorphological databases, consisting of linear measurements and geometric morphometric descriptions of shape taken from museum specimens, enabling me to integrate fossil and living diversity. I specialise in the implementation of modern phylogenetic comparative methods in a high performance-computing framework. I am currently leading two major projects, one on teleost fishes and the other on mammals, which together encompass over half of all vertebrate diversity.*
+- [Mike Sears](https://www.clemson.edu/science/academics/departments/biosci/about/profiles/sears3)-- Effect of climate on species at large.
+  collapsed:: true
+	- Research: *My research focuses on the effects of environmental heterogeneity through both time and space on the physiology, behavior, and ecology of individuals. Specifically, I am interested in understanding whether and how animals (typically reptiles and amphibians) might respond to ongoing climatic change. Toward that end, I use an integrative approach that both develops and tests theory. Approaches in my lab use tools not only from physiological and behavioral ecology, but also from Geographic Information Systems (GIS) and remote sensing, evolutionary programming and individual based modeling, statistics, and (recently) ecological genomics*
+-

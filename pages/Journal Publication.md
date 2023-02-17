@@ -343,5 +343,13 @@
 		  Pleurozium schreberi
 		  Rhytidiadelphus loreus
 - `esearch -db assembly -query "Brassica rapa[ORGN]" | esummary | xtract -pattern DocumentSummary -sep "|" -element GbUid SpeciesName AssemblyStatus AssemblyType LastUpdateDate`
-- TODO What is the different between a scaffold level assembly and a chromosome level assembly
--
+- # [[Feb 15th, 2023]]
+- What is the different between a scaffold level assembly and a chromosome level assembly
+  :LOGBOOK:
+  CLOCK: [2023-02-15 Wed 12:57:25]--[2023-02-15 Wed 12:57:26] =>  00:00:01
+  CLOCK: [2023-02-15 Wed 12:57:27]--[2023-02-15 Wed 12:57:27] =>  00:00:00
+  :END:
+	- According to [ensemble](https://useast.ensembl.org/info/genome/genebuild/chromosomes_scaffolds_contigs.html) and [JGI](https://mycocosm.jgi.doe.gov/help/scaffolds.jsf)
+	- Contigs - continuous portion of a genome sequence reconstructed from shotgun data.
+	- Scaffolds - Are structures made of contigs and gaps.
+	- Chromosomes - Chromosomes are scaffolds without gaps
