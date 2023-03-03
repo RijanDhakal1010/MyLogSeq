@@ -364,4 +364,31 @@
 		-
 - # [[Feb 28th, 2023]]
 - {{embed [[Working with SoapDenovo-Trans]]}}
+- # [[Mar 2nd, 2023]]
+- Tasks
+	- Make a list of the old 111 species
+	  collapsed:: true
+		- Do this using the peptide files in onedrive
+	- Split the list according to sources
+		- Down the onekp data using the Rpackage.
+		- If you are going to use Jessie's data do it using his github.
+		- Use phytozome for Blaine's species
+			- {{embed ((6400e71b-3b0c-46a5-8ac7-644228ebc376))}}
+			- |Species X Source|Blaine|Phytozome primary transcript|Phytozome transcript|
+			  |--|--|--|--|
+			  |Arabidopsis thaliana|27628|27654|48455|
+			  |Oryza sativa|42189|42189|52424|
+			  |Physcomitrella paten |32926|32926|87533|
+			  |Poplus trichocarpa|34699|42950|63498|
+			  |Zea mays|39756|39498|131484|
+			-
+	- TODO Not sure why but there are two different types of genome files on phytozome, for both peptides and cds files. One type that is labelled `.cds_primaryTranscriptOnly.fa.gz` and the second type is labelled `cds.fa.gz`. Not sure what the difference is.
+	  collapsed:: true
+	  :LOGBOOK:
+	  CLOCK: [2023-03-02 Thu 14:10:55]--[2023-03-02 Thu 14:10:56] =>  00:00:01
+	  :END:
+		- [Discussion on reddit](https://www.reddit.com/r/bioinformatics/comments/11gd520/transcript_vs_primary_transcript_on_phytozome/)
+		- [Discussion on biostars](https://www.biostars.org/p/9556284/)
+		- [According to Wikidpedia](https://www.wikiwand.com/en/Primary_transcript) A primary transcript is the single-stranded ribonucleic acid (RNA) product synthesized by transcription of DNA, and processed to yield various mature RNA products such as mRNAs, tRNAs, and rRNAs. The primary transcripts designated to be mRNAs are modified in preparation for translation. For example, a precursor mRNA (pre-mRNA) is a type of primary transcript that becomes a messenger RNA (mRNA) after processing.
+	-
 -
