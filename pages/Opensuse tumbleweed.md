@@ -6,3 +6,5 @@
 	- sudo zypper in R-base
 	- `Tidyverse`
 		- install.packages('tidyverse')
+- {{embed [[Installing fonts]]}}
+-
