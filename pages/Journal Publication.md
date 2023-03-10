@@ -391,4 +391,5 @@
 		- [Discussion on biostars](https://www.biostars.org/p/9556284/)
 		- [According to Wikidpedia](https://www.wikiwand.com/en/Primary_transcript) A primary transcript is the single-stranded ribonucleic acid (RNA) product synthesized by transcription of DNA, and processed to yield various mature RNA products such as mRNAs, tRNAs, and rRNAs. The primary transcripts designated to be mRNAs are modified in preparation for translation. For example, a precursor mRNA (pre-mRNA) is a type of primary transcript that becomes a messenger RNA (mRNA) after processing.
 	-
--
+- # [[Mar 10th, 2023]]
+- Removed MTGC from the list because it has no assembly on
